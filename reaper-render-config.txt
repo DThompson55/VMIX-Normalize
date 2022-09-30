@@ -1,6 +1,6 @@
-back/casey at the bat.MOV
+C:\Users\UUSE Team\VMIX-Normalize\samples\Love. Because.....mp4
 <CONFIG
- OUTPATH .
+ OUTPATH "C:/Users/UUSE Team/Desktop/this weeks service"
  NORMALIZE 3 -14.0 0
  BRICKWALL 1 -2
  <OUTFMT

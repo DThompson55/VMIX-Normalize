@@ -2,3 +2,6 @@ back/
 *.mov
 *.mp4
 node_modules/
+**/peaks
+*.reapeaks
+

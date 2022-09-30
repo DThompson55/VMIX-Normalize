@@ -1,4 +1,4 @@
-back
+back/
 *.mov
 *.mp4
-node_modules
+node_modules/

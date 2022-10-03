@@ -6,4 +6,5 @@ node_modules/
 *.reapeaks
 *.txt
 *.log
+.DS_Store
 

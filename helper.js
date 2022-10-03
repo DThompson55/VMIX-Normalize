@@ -7,7 +7,7 @@ const fs = require('fs');
 
   var outpath = "."
   if (process.argv[4])
-    outpath = process.argv[4].trim();
+    outpath = '"'+process.argv[4].trim()+'"';
 
 
   const fileOut = "reaper-render-config.txt";

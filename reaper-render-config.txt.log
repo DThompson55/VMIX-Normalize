@@ -1,2 +1,3 @@
-INIT: REAPER 6.68/macOS-arm64: batch converter loading job file /Users/danielthompson/Projects/VMIX-Normalize/reaper-render-config.txt
-OK
+INIT: REAPER 6.68/win64: batch converter loading job file C:\Users\UUSE Team\VMIX-Normalize\reaper-render-config.txt
+FAIL
+ITEM "C:\Users\UUSE Team\Desktop\this weeks service\Love. Because.....mp4": Can't open destination file .\Love. Because....-converted.mov

@@ -1,2 +1,3 @@
+set mydir=%CD%
 cd \users\UUSE Team\VMIX-Normalize
-start-norm %1
+call start-norm %1 -14 "%mydir%" 
